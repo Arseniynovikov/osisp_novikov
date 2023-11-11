@@ -1,0 +1,8 @@
+﻿  WindowsProject1.cpp
+D:\Study\5sem\osis\WindowsProject1\WindowsProject1\WindowsProject1.cpp(76,24): error C2065: 'box': undeclared identifier
+D:\Study\5sem\osis\WindowsProject1\WindowsProject1\WindowsProject1.cpp(100,5): error C2065: 'box': undeclared identifier
+D:\Study\5sem\osis\WindowsProject1\WindowsProject1\WindowsProject1.cpp(164,24): error C2065: 'box': undeclared identifier
+D:\Study\5sem\osis\WindowsProject1\WindowsProject1\WindowsProject1.cpp(181,43): error C2065: 'box': undeclared identifier
+D:\Study\5sem\osis\WindowsProject1\WindowsProject1\WindowsProject1.cpp(183,24): error C2065: 'box': undeclared identifier
+D:\Study\5sem\osis\WindowsProject1\WindowsProject1\WindowsProject1.cpp(192,41): error C2065: 'box': undeclared identifier
+D:\Study\5sem\osis\WindowsProject1\WindowsProject1\WindowsProject1.cpp(194,24): error C2065: 'box': undeclared identifier
